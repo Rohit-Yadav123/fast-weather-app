@@ -27,7 +27,7 @@ function App() {
             <div className="row">
               <div className="col-md-6 offset-md-4">
                 <div className="mt-3">
-                  <h1><i class="fa-solid fa-cloud-sun text-danger icon1"></i>Weather App</h1>
+                  <h1><i class="fa-solid fa-cloud-sun text-danger icon1"></i>Quick Weather App</h1>
                 </div>
               </div>
             </div>
